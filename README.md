@@ -1,2 +1,2 @@
 # Enterprise-Security-Operations-and-incident-Detection-Platform
-A SIEM log system with a python detection layer built on top
+Simulates an enterprise security operations environment consisting of Windows and Linux endpoints monitored with a centralized SIEM. Build on top of this is also a Python detection and management system developed to identify and prioritize simulated security threats
