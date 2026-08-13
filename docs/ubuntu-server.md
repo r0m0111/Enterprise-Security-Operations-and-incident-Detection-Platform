@@ -33,14 +33,14 @@ These logs are collected by the Wazuh agent.
 Nginx
  ↓
 Nginx Logs
-
-
-## Set Up Commands
-- sudo apt update
-- sudo apt install curl wget git vim
  ↓
 Wazuh Agent
  ↓
 Wazuh Manager
  ↓
 Wazuh Dashboard
+
+## Set Up Commands
+- sudo apt update
+- sudo apt install curl wget git vim
+
