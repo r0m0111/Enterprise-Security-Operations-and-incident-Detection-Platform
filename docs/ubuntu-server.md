@@ -7,7 +7,7 @@ and infrastructure services.
 
 ## VM Configuration
 
-- VM: Workstation Pro
+- VM: Workstation Pro 17.6.4
 - OS: Ubuntu Server 24.04 LTS
 - CPU: 2 cores
 - RAM: 2 GB
