@@ -1,6 +1,6 @@
 # Wazuh Setup
 
-##Youtube Links
+## Youtube Links
 - https://youtu.be/bltbJ2TUQWU?si=A01M9968IaUwuP7r
 
 ## VM Configuration
