@@ -35,7 +35,7 @@ Nginx
 Nginx Logs
 
 
-##Set Up Commands
+## Set Up Commands
 - sudo apt update
 - sudo apt install curl wget git vim
  ↓
