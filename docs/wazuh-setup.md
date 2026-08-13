@@ -5,6 +5,7 @@
 
 ## VM Configuration
 
+- VM: Workstation Pro 17.6.4
 - OS: Ubuntu Server
 - CPU: 4 cores
 - RAM: 6 GB
