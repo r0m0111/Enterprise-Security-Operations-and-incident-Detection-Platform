@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2026-08-13T14:00:00",
+    "rule": {
+      "id": "5710",
+      "level": 5,
+      "description": "sshd: authentication failed"
+    },
+    "data": {
+      "srcip": "192.168.1.100",
+      "srcuser": "testuser",
+      "event_type": "ssh_failed_login"
+    }
+  },
+  {
+    "timestamp": "2026-08-13T14:01:00",
+    "rule": {
+      "id": "5710",
+      "level": 5,
+      "description": "sshd: authentication failed"
+    },
+    "data": {
+      "srcip": "192.168.1.100",
+      "srcuser": "testuser",
+      "event_type": "ssh_failed_login"
+    }
+  },
+  {
+    "timestamp": "2026-08-13T14:02:00",
+    "rule": {
+      "id": "100100",
+      "level": 10,
+      "description": "Cyber Lab: Possible SSH brute-force attack"
+    },
+    "data": {
+      "srcip": "192.168.1.100",
+      "srcuser": "testuser",
+      "event_type": "ssh_bruteforce"
+    }
+  },
+  {
+    "timestamp": "2026-08-13T14:03:00",
+    "rule": {
+      "id": "100101",
+      "level": 7,
+      "description": "Cyber Lab: Suspicious web path requested"
+    },
+    "data": {
+      "srcip": "192.168.1.100",
+      "event_type": "web_recon",
+      "url": "/admin",
+      "status": "404"
+    }
+  }
+]
