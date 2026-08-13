@@ -43,4 +43,11 @@ Wazuh Dashboard
 ## Set Up Commands
 - sudo apt update
 - sudo apt install curl wget git vim
+- sudo apt install openssh-server
+- sudo apt install nginx
+- sudo systemctl enable --now nginx
+
+
+## Test
+- type Ubuntu web server on windows client and should see nginx welcome page
 
